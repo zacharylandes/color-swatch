@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/laurenfazah/color_swatch",
   "author": "Lauren Fazah",
   "license": "ISC",
   "scripts": {
