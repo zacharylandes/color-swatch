@@ -6,7 +6,7 @@ Clone and navigate to the directory in your preferred way, or
 
 ```shell
 git clone git@github.com:turingschool-examples/color_swatch.git
-cd word_watch
+cd color_swatch
 ```
 
 Then, get those dependencies:
